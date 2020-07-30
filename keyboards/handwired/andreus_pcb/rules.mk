@@ -5,6 +5,8 @@
 MCU = atmega32u4
 #MCU = atmega328p
 
+BOOTLOADER = caterina
+
 # Processor frequency.
 #     This will define a symbol, F_CPU, in all source code files equal to the
 #     processor frequency in Hz. You can then use this symbol in your source code to
